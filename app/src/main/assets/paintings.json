@@ -1,0 +1,76 @@
+{
+  "paintings": [
+    {
+      "title": "Mona Lisa",
+      "description": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.",
+      "imageResId": "2131165340",
+      "artist": "Leonardo da Vinci",
+      "year": "1503",
+      "medium": "Oil on poplar panel",
+      "location": "Louvre Museum, Paris"
+    },
+    {
+      "title": "Starry Night Over the Rhône",
+      "description": "Starry Night Over the Rhône is one of Vincent van Gogh's paintings of Arles at nighttime. It was painted at a spot on the bank of the Rhône River that was only a one or two-minute walk from the Yellow House on the Place Lamartine which Van Gogh was renting at the time.",
+      "imageResId": "2131165341",
+      "artist": "Vincent van Gogh",
+      "year": "1888",
+      "medium": "Oil on canvas",
+      "location": "Musée d'Orsay, Paris"
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "description": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various titles over the centuries, it became known by its present title towards the end of the 20th century after the large pearl earring worn by the girl portrayed there.",
+      "imageResId": "2131165342",
+      "artist": "Johannes Vermeer",
+      "year": "1665",
+      "medium": "Oil on canvas",
+      "location": "Mauritshuis, The Hague"
+    },
+    {
+      "title": "Starry Night",
+      "description": "Starry Night is one of the most famous paintings by Dutch artist Vincent van Gogh. Painted in 1889, it depicts a swirling night sky over a quiet town, with a large cypress tree in the foreground.",
+      "imageResId": "2131165343",
+      "artist": "Vincent van Gogh",
+      "year": "1889",
+      "medium": "Oil on canvas",
+      "location": "Museum of Modern Art, New York"
+    },
+    {
+      "title": "The Boy in a Red Vest",
+      "description": "The Boy in a Red Vest, also known as The Boy in the Red Waistcoat, is a painting by French artist Paul Cézanne. It depicts a young boy in traditional Italian attire.",
+      "imageResId": "2131165344",
+      "artist": "Paul Cézanne",
+      "year": "1888-1890",
+      "medium": "Oil on canvas",
+      "location": "Foundation E.G. Bührle Collection, Zürich"
+    },
+    {
+      "title": "The Return of the Prodigal Son",
+      "description": "The Return of the Prodigal Son is a late work by Rembrandt, completed in the final years of his life. The painting depicts the moment the prodigal son returns to his father in the biblical parable.",
+      "imageResId": "2131165345",
+      "artist": "Rembrandt",
+      "year": "1669",
+      "medium": "Oil on canvas",
+      "location": "Hermitage Museum, Saint Petersburg"
+    },
+    {
+      "title": "The Entombment of Christ",
+      "description": "The Entombment of Christ is a painting by Italian artist Caravaggio, depicting the burial of Jesus Christ. It is one of Caravaggio's most well-known religious works.",
+      "imageResId": "2131165346",
+      "artist": "Caravaggio",
+      "year": "1603-1604",
+      "medium": "Oil on canvas",
+      "location": "Vatican Museums, Vatican City"
+    },
+    {
+      "title": "The Descent from the Cross",
+      "description": "The Descent from the Cross is a painting by Peter Paul Rubens, showing the body of Christ being taken down from the cross after his crucifixion.",
+      "imageResId": "2131165347",
+      "artist": "Peter Paul Rubens",
+      "year": "1612-1614",
+      "medium": "Oil on canvas",
+      "location": "Cathedral of Our Lady, Antwerp"
+    }
+  ]
+}

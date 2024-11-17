@@ -1,0 +1,54 @@
+{
+  "movements": [
+    {
+      "name": "Ancient Art",
+      "period": "15,000 BC",
+      "description": "Work has been found in tombs. Began with the invention of writing. Favored drawing over color."
+    },
+    {
+      "name": "Renaissance",
+      "period": "1300's",
+      "description": "Began in Italy. Time of economic growth. Da Vinci, Michelangelo, and Raphael represented this era."
+    },
+    {
+      "name": "Baroque",
+      "period": "1600's",
+      "description": "This was also the age of Rubens, Rembrandt, Velázquez, and Vermeer. The movement was encouraged by the Catholic Church. Less complex; more realistic."
+    },
+    {
+      "name": "Impressionism",
+      "period": "1867-1886",
+      "description": "Distortion & Exaggeration. Very Bright & Vibrant. Captures images as if they were seen at a glance."
+    },
+    {
+      "name": "Post-Impressionism",
+      "period": "1880-1920",
+      "description": "Flat colors, heavy outline, decorative quality. Based on nature."
+    },
+    {
+      "name": "Expressionism",
+      "period": "1905-1925",
+      "description": "The use of distortion and exaggeration. Dance, cinema, literature, and theatre."
+    },
+    {
+      "name": "Cubism",
+      "period": "1908-1914",
+      "description": "Pablo Picasso and Georges Braque. Began in Paris. Introduced 3-D, used several points of view."
+    },
+    {
+      "name": "Dada",
+      "period": "1916-1920",
+      "description": "Emphasized unpredictability in art. Irreverence was key to their artwork."
+    },
+    {
+      "name": "Pop Art",
+      "period": "1950-1960",
+      "description": "Celebrated everyday objects, soup cans, coke bottles, comic strips, and washing powder. Direct descendant of Dadaism. Bright solid colors, no variation."
+    },
+    {
+      "name": "Op Art",
+      "period": "1960",
+      "description": "Seem to swell and vibrate. 'Optical Art'. Bridget Riley, Heinz Mack, & Victor Vasarely."
+    }
+  ]
+}

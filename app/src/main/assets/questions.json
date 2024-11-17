@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the medium of the Mona Lisa?",
+      "options": ["Oil on canvas", "Oil on poplar panel", "Watercolor", "Charcoal"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Where is the Starry Night currently located?",
+      "options": ["The Louvre", "The Metropolitan Museum of Art", "The Museum of Modern Art", "The Rijksmuseum"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What year was the Girl with a Pearl Earring painted?",
+      "options": ["1606", "1665", "1701", "1567"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Who painted the Starry Night?",
+      "options": ["Claude Monet", "Paul Cézanne", "Vincent van Gogh", "Henri Matisse"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What is the primary color scheme in the Starry Night?",
+      "options": ["Red and yellow", "Green and brown", "Blue and yellow", "Purple and orange"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In which country was Vincent van Gogh born?",
+      "options": ["France", "The Netherlands", "Belgium", "Germany"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What style of painting is the Mona Lisa?",
+      "options": ["Baroque", "Impressionism", "Renaissance", "Cubism"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "What is the name of the woman depicted in the Mona Lisa?",
+      "options": ["Lisa Gherardini", "Anna Karenina", "Mona Lisa", "Isabella d'Este"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Who painted the Girl with a Pearl Earring?",
+      "options": ["Johannes Vermeer", "Rembrandt", "Caravaggio", "Peter Paul Rubens"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "What year was the Starry Night painted?",
+      "options": ["1888", "1889", "1890", "1891"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the medium of The Boy in a Red Vest?",
+      "options": ["Watercolor", "Charcoal", "Tempera on panel", "Oil on canvas"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Who painted The Boy in a Red Vest?",
+      "options": ["Henri Matisse", "Claude Monet", "Vincent van Gogh", "Paul Cézanne"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Where is The Boy in a Red Vest currently located?",
+      "options": ["The Louvre", "Foundation E.G. Bührle Collection", "The Rijksmuseum", "The Museum of Modern Art"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the medium of The Return of the Prodigal Son?",
+      "options": ["Watercolor", "Charcoal", "Tempera on panel", "Oil on canvas"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Who painted The Return of the Prodigal Son?",
+      "options": ["Rembrandt", "Paul Cézanne", "Henri Matisse", "Claude Monet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Where is The Return of the Prodigal Son currently located?",
+      "options": ["Hermitage Museum", "The Louvre", "Foundation E.G. Bührle Collection", "The Rijksmuseum"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "What is the medium of The Entombment of Christ?",
+      "options": ["Tempera on panel", "Oil on canvas", "Charcoal", "Watercolor"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Who painted The Entombment of Christ?",
+      "options": ["Paul Cézanne", "Henri Matisse", "Caravaggio", "Vincent van Gogh"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Where is The Entombment of Christ currently located?",
+      "options": ["Hermitage Museum", "Vatican Museums", "Foundation E.G. Bührle Collection", "The Louvre"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the medium of The Descent from the Cross?",
+      "options": ["Tempera on panel", "Charcoal", "Watercolor", "Oil on canvas"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Who painted The Descent from the Cross?",
+      "options": ["Henri Matisse", "Paul Cézanne", "Peter Paul Rubens", "Claude Monet"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Where is The Descent from the Cross currently located?",
+      "options": ["The Rijksmuseum", "Cathedral of Our Lady", "Hermitage Museum", "The Louvre"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Who are the key artists of the Baroque period?",
+      "options": ["Da Vinci, Michelangelo, and Raphael", "Rubens, Rembrandt, Velázquez, and Vermeer", "Picasso and Braque", "Bridget Riley and Victor Vasarely"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which art movement introduced 3-D and used several points of view?",
+      "options": ["Impressionism", "Cubism", "Renaissance", "Expressionism"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What era is known for favoring drawing over color?",
+      "options": ["Impressionism", "Renaissance", "Ancient Art", "Dada"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which movement is characterized by bright and vibrant colors and captures images as if they were seen at a glance?",
+      "options": ["Cubism", "Expressionism", "Impressionism", "Op Art"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In which period did Da Vinci, Michelangelo, and Raphael create their works?",
+      "options": ["Baroque", "Renaissance", "Post-Impressionism", "Pop Art"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which movement emphasized unpredictability in art and had a key element of irreverence?",
+      "options": ["Dada", "Expressionism", "Ancient Art", "Cubism"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "During which period was economic growth and the beginning of a movement in Italy?",
+      "options": ["Post-Impressionism", "Renaissance", "Pop Art", "Op Art"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which art movement celebrated everyday objects like soup cans and coke bottles?",
+      "options": ["Ancient Art", "Expressionism", "Pop Art", "Baroque"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Who are the notable artists associated with Op Art?",
+      "options": ["Rubens and Rembrandt", "Da Vinci and Michelangelo", "Picasso and Braque", "Bridget Riley and Victor Vasarely"],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "What are the characteristics of the Post-Impressionism period?",
+      "options": ["Distortion & Exaggeration", "Flat colors, heavy outline, decorative quality", "Seem to swell and vibrate", "Time of economic growth"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
