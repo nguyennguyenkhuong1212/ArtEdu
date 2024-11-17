@@ -33,16 +33,6 @@ public class GalleryPage extends Fragment {
         recyclerView.setAdapter(adapter);
 
         List<Painting> paintingList = DataReader.readPaintingsFromAssets(requireContext(), "paintings.json");
-        if (paintingList == null) {
-            Log.e("GalleryPage", "Failed to load paintings from JSON. The list is null.");
-        } else {
-            Log.d("GalleryPage", "Number of paintings: " + paintingList.size());
-
-            // Optionally print each painting
-            for (Painting painting : paintingList) {
-                Log.d("GalleryPage", "Painting: " + painting.toString());
-            }
-        }
         adapter.submitList(paintingList);
 
         return view;

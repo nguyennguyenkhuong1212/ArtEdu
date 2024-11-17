@@ -73,7 +73,6 @@ public class DataReader {
             Type movementListType = new TypeToken<ArrayList<ArtMovement>>(){}.getType();
             movements = gson.fromJson(movementsArray, movementListType);
 
-            Log.d("Data Reader", String.valueOf(movements.size()));
 
         } catch (IOException | JsonSyntaxException e) {
             e.printStackTrace();
@@ -99,6 +98,13 @@ public class DataReader {
             JsonObject rootObject = gson.fromJson(jsonString, JsonObject.class);
 
             JsonArray paintingsArray = rootObject.getAsJsonArray("paintings");
+
+            int resourceIdStart = R.drawable.image1;
+
+            for (int i = 0; i < paintingsArray.size(); i++) {
+                JsonObject painting = paintingsArray.get(i).getAsJsonObject();
+                painting.addProperty("imageResId", resourceIdStart + i);
+            }
 
             Type paintingsListType = new TypeToken<ArrayList<Painting>>(){}.getType();
             paintings = gson.fromJson(paintingsArray, paintingsListType);
