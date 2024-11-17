@@ -5,7 +5,6 @@
     android:layout_height="wrap_content"
     android:padding="10dp">
 
-    <!-- Circle Layer (the two circles) -->
     <ImageView
         android:id="@+id/circles"
         android:layout_width="24dp"
@@ -16,7 +15,6 @@
         android:layout_marginEnd="10dp"
         />
 
-    <!-- LinearLayout with TextViews -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
