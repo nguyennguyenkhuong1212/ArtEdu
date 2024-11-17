@@ -33,6 +33,14 @@ public class GalleryPage extends Fragment {
         recyclerView.setAdapter(adapter);
 
         List<Painting> paintingList = DataReader.readPaintingsFromAssets(requireContext(), "paintings.json");
+        paintingList.get(0).setImageResId(R.drawable.image1);
+        paintingList.get(1).setImageResId(R.drawable.image2);
+        paintingList.get(2).setImageResId(R.drawable.image3);
+        paintingList.get(3).setImageResId(R.drawable.image4);
+        paintingList.get(4).setImageResId(R.drawable.image5);
+        paintingList.get(5).setImageResId(R.drawable.image6);
+        paintingList.get(6).setImageResId(R.drawable.image7);
+        paintingList.get(7).setImageResId(R.drawable.image8);
         adapter.submitList(paintingList);
 
         return view;
